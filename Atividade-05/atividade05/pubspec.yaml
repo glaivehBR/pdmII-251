@@ -1,0 +1,9 @@
+name: atividade_05
+description: Envio de e-mail com Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  mailer: ^6.0.1
