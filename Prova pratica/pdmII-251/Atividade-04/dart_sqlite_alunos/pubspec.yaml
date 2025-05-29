@@ -1,0 +1,8 @@
+name: dart_sqlite_alunos
+description: A sample command-line application.
+version: 1.0.0
+homepage: https://dart.dev
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  sqlite3: ^1.0.0  # Adicione esta linha
